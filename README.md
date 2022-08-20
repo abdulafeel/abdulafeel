@@ -7,12 +7,6 @@
 - 🥅 2022 Goals: Learn more about mobile app development.
 - ⚡ Fun fact: I love to play games.
 
-### Connect with me:
-
-[![website](linkedin-light.svg)](https://www.linkedin.com/in/abdulafeel/#gh-light-mode-only)
-[![website](linkedin-dark.svg)](https://www.linkedin.com/in/abdulafeel/#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -111,8 +105,8 @@
 ---
 <h2 align="center"> Let's connect! </h2>
 <p align="center">
-<a href="https://www.akif.tech/"><img align="center" width="30px" src="website.png" /></a> &nbsp;&nbsp; <a href="mailto:akiif.dev@gmail.com"><img align="center" width="30px" src="images/mail.png" /></a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/akif-mohammed/"><img align="center" width="30px" src="linkedin.png" /></a> &nbsp;&nbsp;  
+<a href="mailto:abdulafeel2@gmail.com"><img align="center" width="30px" src="mail.png" /></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/a/"><img align="center" width="30px" src="linkedin.png" /></a> &nbsp;&nbsp;  
 <a href="https://twitter.com/zodyto"><img align="center" width="30px" src="twitter.png" /></a> &nbsp;&nbsp; 
 <a href="https://www.instagram.com/zodyto/"><img align="center" width="30px" src="instagram.png" /></a>
 </p>
