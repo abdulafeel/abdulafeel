@@ -29,15 +29,16 @@
 
 
 
+
 ---
 ### Tools ⚙️:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="30px" src="./img/github-light.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="30px" src="./img/github-dark.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="30px" src="./img/jupyter.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="30px" src="./img/sublime.png" style="padding-right:10px;" />
-<img align="left" alt="Git" width="30px" src="./img/terminal-light.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="30px" src="./img/terminal-dark.svg" style="padding-right:10px;" />
 
 
 
@@ -46,31 +47,18 @@
 
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdulafeel&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
 
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 
-<br/>
-<br/>
-
-
----
-
----
-<br/>
-<br/>
-
-<h2 align="left"> GitHub Overview </h2>
+<h4 align="left"> GitHub Overview: </h2>
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulafeel&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=skyra-project/skyra,skyra.pw,alestra,skyra-sharp,lycore,aurora,char,timestamp,anti-user-gateway,orm,eslint-config;binarytf/binarytf;discordjs/discord.js,collection;novariableglobal/mood,g.shift,global-engine;sapphire-project/framework,pieces,plugins,utilities" />
+    </td>
+     <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=abdulafeel&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
     </td>
   </tr>
 </table>
