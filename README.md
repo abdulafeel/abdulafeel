@@ -51,7 +51,7 @@
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 
-<h4 align="left"> GitHub Overview: </h2>
+<h4 align="left"> GitHub Overview ⚡: </h2>
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
