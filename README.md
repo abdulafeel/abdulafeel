@@ -1,3 +1,6 @@
+![Header](./images/header.png)
+
+---
 
 # Hi there, I'm Afeel 👋 
 
