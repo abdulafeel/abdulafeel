@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @abdulafeel
-- 👀 I’m interested in Website development, Mobile app development, Dekstop app development etc.
-- 🌱 I’m currently working in Harman Connected Servicer.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-abdulafeel/abdulafeel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 # Hi there, I'm Afeel 👋 
 
@@ -22,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/abdulafeel/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/abdulafeel/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
