@@ -70,7 +70,6 @@
 <p align="center">
 <a href="mailto:abdulafeel2@gmail.com"><img align="center" width="30px" src="./img/mail.png" /></a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abdulafeel/"><img align="center" width="30px" src="./img/linkedin.png" /></a> &nbsp;&nbsp;  
-<a href="https://twitter.com/zodyto"><img align="center" width="30px" src="./img/twitter.png" /></a> &nbsp;&nbsp; 
 <a href="https://www.instagram.com/afeel.affi/"><img align="center" width="30px" src="./img/instagram.png" /></a>
 </p>
 
