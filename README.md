@@ -69,8 +69,8 @@
 <h2 align="center"> Let's connect! </h2>
 <p align="center">
 <a href="mailto:abdulafeel2@gmail.com"><img align="center" width="30px" src="./img/mail.png" /></a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/a/"><img align="center" width="30px" src="./img/linkedin.png" /></a> &nbsp;&nbsp;  
+<a href="https://www.linkedin.com/in/abdulafeel/"><img align="center" width="30px" src="./img/linkedin.png" /></a> &nbsp;&nbsp;  
 <a href="https://twitter.com/zodyto"><img align="center" width="30px" src="./img/twitter.png" /></a> &nbsp;&nbsp; 
-<a href="https://www.instagram.com/zodyto/"><img align="center" width="30px" src="./img/instagram.png" /></a>
+<a href="https://www.instagram.com/afeel.affi/"><img align="center" width="30px" src="./img/instagram.png" /></a>
 </p>
 
