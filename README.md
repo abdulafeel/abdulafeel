@@ -76,3 +76,44 @@
 
 
 ---
+<h2 align="center">My Tools ⚙️ </h2>
+<p align="center">
+<a href="https://git-scm.com">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/tools/git.svg" alt="git" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://github.com/arpanaditya">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/jetbrains_intellij.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
+
+</p>
+
+---
+<h2 align="center"> GitHub Overview </h2>
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiif&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=skyra-project/skyra,skyra.pw,alestra,skyra-sharp,lycore,aurora,char,timestamp,anti-user-gateway,orm,eslint-config;binarytf/binarytf;discordjs/discord.js,collection;novariableglobal/mood,g.shift,global-engine;sapphire-project/framework,pieces,plugins,utilities" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=akiif&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+  </tr>
+</table>
+
+[![Akif's github activity graph](https://activity-graph.herokuapp.com/graph?username=akiif&theme=react-dark)](https://github.com/akiif/github-readme-activity-graph)
+
+---
+<h2 align="center"> Let's connect! </h2>
+<p align="center">
+<a href="https://www.akif.tech/"><img align="center" width="30px" src="images/website.png" /></a> &nbsp;&nbsp; <a href="mailto:akiif.dev@gmail.com"><img align="center" width="30px" src="images/mail.png" /></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/akif-mohammed/"><img align="center" width="30px" src="images/linkedin.png" /></a> &nbsp;&nbsp;  
+<a href="https://twitter.com/zodyto"><img align="center" width="30px" src="images/twitter.png" /></a> &nbsp;&nbsp; 
+<a href="https://www.instagram.com/zodyto/"><img align="center" width="30px" src="images/instagram.png" /></a>
+</p>
+
