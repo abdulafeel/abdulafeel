@@ -64,7 +64,7 @@
   </tr>
 </table>
 
-[![Afeel's github activity graph](https://activity-graph.herokuapp.com/graph?username=abdulafeel&theme=react-light)](https://github.com/abdulafeel/github-readme-activity-graph)
+[![Afeel's github activity graph](https://activity-graph.herokuapp.com/graph?username=abdulafeel&theme=react-dark)](https://github.com/abdulafeel/github-readme-activity-graph)
 
 ---
 <h2 align="center"> Let's connect! </h2>
