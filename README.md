@@ -1,6 +1,3 @@
-![Header](./images/header.png)
-
----
 
 # Hi there, I'm Afeel 👋 
 
@@ -12,8 +9,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/abdulafeel/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/abdulafeel/#gh-dark-mode-only)
+[![website](img/linkedin-light.svg)](https://www.linkedin.com/in/abdulafeel/#gh-light-mode-only)
+[![website](img/linkedin-dark.svg)](https://www.linkedin.com/in/abdulafeel/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
