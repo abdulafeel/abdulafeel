@@ -10,7 +10,9 @@
 
 ## My Portfolio 💼
 
-<a href="https://abdulafeel.github.io/portfolio/">Click Here</a>
+Click <a href="https://abdulafeel.github.io/portfolio/"> here</a> to view my Portfolio.
+
+---
 
 ### Languages 🧰:
 
