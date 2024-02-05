@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about mobile app development.
 - ⚡ Fun fact: I love to play games.
-- 👨‍💻 Currently working as an Associate Engineer @ Harman International.
+- 👨‍💻 Currently working as an Cloud Associate Developer @ Nivues Solutions.
 
 ## My Portfolio 💼
 
